@@ -60,6 +60,10 @@ This program can be downloaded and used by anyone. To run the application, use t
 node server.js
 ```
 
+This application has also been deployed to Heroku and can be found here:
+
+https://note-taker-2022-app.herokuapp.com/ 
+
 ## Credits
 
 This application was made as an exercise in creating back-end/server functionality and therefore the front-end was provided by the UW bootcamp.
