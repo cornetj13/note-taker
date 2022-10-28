@@ -1,17 +1,22 @@
 [
     {
-        "id": "1",
-        "title": "Test Title",
-        "text": "Test text"
-    },
-    {
         "id": "2",
         "title": "This is a note",
         "text": "And this note has a lot of text added to it."
     },
     {
-        "id": "3",
-        "title": "This is another test note",
-        "text": "And this note has a so much text going on, so much text added to it."
+        "id": "29fe72fa-ee03-4980-acfc-c2fd78dbfc3c",
+        "title": "Let's write a note",
+        "text": "This is a note"
+    },
+    {
+        "id": "45fab254-5b3f-4e2b-aa63-33833bac358a",
+        "title": "This is a note",
+        "text": "And this note has a lot of text added to it."
+    },
+    {
+        "id": "6e1342c4-312f-4042-9040-31b050962179",
+        "title": "This is a note",
+        "text": "Testing"
     }
 ]
